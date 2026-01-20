@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated documentation
+docs/
+
+# Receipts / data
+app/receipts/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+
+COMMAND_API_OPENAI.txt
+
